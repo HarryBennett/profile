@@ -1,10 +1,18 @@
 body{
-background-color: #fafafa;
+background-image: url("https://piktochart.com/wp-content/uploads/2014/01/Jan-10-2014-by-Ai-Ching.jpg");
 font-family: 'Open Sans', sans-serif;
 display: block;
 margin: 8px;
 }
 
+
+h1 {
+
+font-family: 'Montserrat', sans-serif;;
+color: #ffffff;
+font-size: 60px
+
+}
 
 }
 
@@ -63,6 +71,7 @@ width: 150px;
 
 .avatar img {
     border-radius:150px;
+
 }
 
 .social {
@@ -101,6 +110,25 @@ text-align: center;
 
 }
 
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+
+  width: 600px;
+margin-left: auto;
+margin-right: auto;
+background-color: #fff;
+margin-top: 20px;
+margin-bottom: 20px;
+padding: 15px;
+border-radius: 3px;
+text-align: center;
+border: 1px solid rgba(0, 0, 0, 0.1);
+}
 
 /* Here goes your CSS */
 /* Here goes your CSS */
