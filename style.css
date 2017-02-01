@@ -26,14 +26,17 @@ a:link {
     color: silver;
 }
 
+/* visited link */
 a:visited {
     color: green;
 }
 
+/* mouse over link */
 a:hover {
     color: gold;
 }
 
+/* selected link */
 a:active {
     color: gold;
 
@@ -91,3 +94,9 @@ text-align: center;
 border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+
+
+
+
+/* Here goes your CSS */
+/* Here goes your CSS */
