@@ -1,0 +1,96 @@
+body{
+background-color: #fafafa;
+font-family: 'Open Sans', sans-serif;
+display: block;
+margin: 8px;
+}
+
+
+}
+
+h2,h3,h4 {
+
+font-family: 'Montserrat', sans-serif;;
+color: #444545;
+
+}
+
+p {
+
+font-family:font-family: 'Montserrat', sans-serif;
+color: #091540;
+
+}
+
+a:link {
+    color: silver;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: gold;
+}
+
+/* selected link */
+a:active {
+    color: gold;
+
+}
+  .movies-image{
+
+width: 150px;
+
+
+  }
+
+
+.avatar {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:300px;
+  height:300px;
+
+
+}
+
+.avatar img {
+    border-radius:150px;
+}
+
+.social {
+
+width: 600px;
+margin-left: auto;
+margin-right: auto;
+background-color: #fff;
+margin-top: 20px;
+margin-bottom: 20px;
+padding: 15px;
+border-radius: 3px;
+text-align: center;
+border: 1px solid rgba(0, 0, 0, 0.1);
+
+}
+
+.container {
+
+width: 600px;
+margin-left: auto;
+margin-right: auto;
+background-color: #fff;
+margin-top: 20px;
+margin-bottom: 20px;
+padding: 15px;
+border-radius: 3px;
+text-align: center;
+border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
